@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlmazikDev
 - 👀 I’m interested in Frontend development, also I love playing football, watching UFC, doing gym) 
-- 🌱 I’m currently learning JavaScript, Tailwind, Vue.js
+- 🌱 I’m currently learning JavaScript, Tailwind, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me out via telegram @almaz_madridist
+- 📫 You can reach me out via telegram @kalaaabayev
 
 <!---
 AlmazikDev/AlmazikDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
